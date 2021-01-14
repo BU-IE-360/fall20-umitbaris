@@ -7,3 +7,6 @@
 
 ## Homework 2 (December 18)
 [Here](files/hw2.html) you can find my analysis using the Central Bank of Turkey data center.
+
+## Homework 3 (January 14)
+[Here](files/hw3.html) you can find my analysis on monthly number of liquidated firms in Turkey.
