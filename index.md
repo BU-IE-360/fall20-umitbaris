@@ -10,3 +10,6 @@
 
 ## Homework 3 (January 14)
 [Here](files/hw3.html) you can find my analysis on monthly number of liquidated firms in Turkey.
+
+## Homework 4 (January 29)
+[Here](files/hw4.html) you can find my analysis on daily mean electricity consumption in Turkey.
