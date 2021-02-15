@@ -13,3 +13,6 @@
 
 ## Homework 4 (January 29)
 [Here](files/hw4.html) you can find my analysis on daily mean electricity consumption in Turkey.
+
+## Project Report (February 15)
+[Here](files/ie360_project_report.html) you can find our project on hourly electricity consumption in Turkey.
